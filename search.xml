@@ -3,7 +3,14 @@
   <entry>
     <title>First Hexo Blog</title>
     <url>/2020/03/17/First-Hexo-Blog/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h2 id="Hello-World-This-is-our-first-post"><a href="#Hello-World-This-is-our-first-post" class="headerlink" title="Hello World! This is our first post!"></a>Hello World! This is our first post!</h2><hr>
+]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Test</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
